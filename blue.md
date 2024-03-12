@@ -1,1 +1,7 @@
-#Resources linked to blueTeam
+#Resources linked to blue Teaming
+
+##Certifications
+
+BTL1
+CySa+
+CDD ?
