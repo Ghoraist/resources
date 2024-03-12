@@ -1,6 +1,6 @@
-#Resources linked to blue Teaming
+# Resources linked to blue Teaming
 
-##Certifications
+## Certifications
 
 BTL1
 CySa+
